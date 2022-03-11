@@ -1,0 +1,25 @@
+{
+  "name": "otterdb",
+  "version": "0.0.2",
+  "description": "otter db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playatanu/otterdb.git"
+  },
+  "keywords": [
+    "db",
+    "database",
+    "promise",
+    "node"
+  ],
+  "author": "Atanu Debnath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/playatanu/otterdb.git/issues"
+  },
+  "homepage": "https://github.com/playatanu/otterdb.git#readme"
+}
