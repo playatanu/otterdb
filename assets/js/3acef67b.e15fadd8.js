@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[55],{9854:function(o){o.exports=JSON.parse('{"allTagsPath":"/otterdb/blog/tags","slug":"/otterdb/blog/tags/facebook","name":"facebook","count":1,"permalink":"/otterdb/blog/tags/facebook"}')}}]);
