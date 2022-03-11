@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[541],{9253:function(t){t.exports=JSON.parse('{"allTagsPath":"/otterdb/blog/tags","slug":"/otterdb/blog/tags/hola","name":"hola","count":1,"permalink":"/otterdb/blog/tags/hola"}')}}]);
